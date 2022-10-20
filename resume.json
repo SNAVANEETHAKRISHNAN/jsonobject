@@ -1,0 +1,63 @@
+{
+   [ 
+    "basics": {
+      "name": "Navaneetha Krishnan S",
+      "role": "web developer",
+      "email": "krizs180@gmail.com",
+      "phone": "6369618952",
+      "location": {
+        "address": "parivakkam,poonamallee,chennai-56",
+        "postalCode": "600056",
+        "city": "chennai",
+        "countryCode": "india",
+        "region":"tamilnadu"
+      },
+      
+    "work": [
+      {
+        "role": "process associate",
+        "location": "poonamallee,chennai",
+        "description": "rivigo service private limited",
+        "startDate": "2020-10-19",
+        "endDate": "nil",
+        "summary": " customer service,team co-ordinates,billing the monthly tarrif",
+      ]
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "veltech university",
+        "area": "Information Technology",
+        "studyType": "Bachelor",
+        "startDate": "2014-06-19",
+        "endDate": "2018-06-19",
+        "score": "3.2"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "intermediate",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+      },
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "good"
+      }
+    ],
+    "interests": [
+      {
+        "name": "b ike ride",
+        "keywords": [
+          "long trip",
+          "pulsar180"
+        ]
+      }
+    ]
+  }
